@@ -1,9 +1,4 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolomc&count_private=true&show_icons=true&theme=radical)](https://github.com/yolomc/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yolomc&layout=compact)](https://github.com/yolomc/github-readme-stats)
-
-
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
